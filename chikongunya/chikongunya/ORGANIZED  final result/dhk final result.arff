@@ -1,0 +1,79 @@
+@relation c-dhk-training_predicted
+
+
+@attribute Location {Dhaka}
+
+@attribute Gender {Male,Female,male}
+
+@attribute Age numeric
+
+@attribute Temperature numeric
+
+@attribute Fever {no,yes}
+
+@attribute Arthralgia {no,yes}
+
+@attribute Backache {no,yes}
+
+@attribute Headache {yes,no}
+
+@attribute Rash {yes,no}
+
+@attribute Stomatitis {no,yes}
+
+@attribute 'Oral ulcer' {no,yes}
+
+@attribute Vomiting {yes,no}
+
+@attribute Diarrhoea {yes,no}
+
+@attribute 'Joint Swelling' {no,yes}
+
+@attribute '2nd visit?' {no,yes}
+
+@attribute 'Still JS' {null,yes}
+
+@attribute 'Dengue NS1' {Null,Positive,Negative,null}
+
+@attribute 'predictedChikongunya Type' {'Type one','Type two',Dengue}
+
+@attribute 'Chikongunya Type' {'Type one','Type two',Dengue}
+
+
+
+@data
+
+
+Dhaka,Male,11,98.6,no,yes,no,yes,yes,no,no,yes,no,no,no,null,Null,'Type one',?
+
+Dhaka,Female,8,98.6,no,no,no,yes,yes,no,no,no,yes,no,no,null,Null,'Type one',?
+
+Dhaka,Male,9,104,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,Positive,Dengue,?
+
+Dhaka,Male,7,104,yes,yes,no,yes,yes,yes,no,no,yes,yes,yes,yes,Positive,Dengue,?
+
+Dhaka,Female,12,105,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two',?
+
+Dhaka,Male,18,100,yes,yes,no,no,yes,no,no,yes,yes,no,no,null,Null,'Type one',?
+
+Dhaka,Male,15,105,yes,yes,no,no,yes,no,no,no,yes,no,yes,yes,Negative,'Type two',?
+
+Dhaka,Female,33,105,yes,no,no,yes,yes,yes,no,yes,yes,no,yes,yes,Negative,'Type two',?
+
+Dhaka,Male,25,104,yes,yes,no,no,yes,yes,no,no,yes,yes,yes,yes,Positive,Dengue,?
+
+Dhaka,Male,26,103,yes,yes,no,yes,yes,yes,no,yes,no,yes,no,null,Null,'Type one',?
+
+Dhaka,Male,26,104,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,null,Null,'Type one',?
+
+Dhaka,Male,38,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,'Type one',?
+
+Dhaka,Female,43,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,'Type one',?
+
+Dhaka,Female,71,102,yes,yes,no,no,yes,no,yes,no,no,yes,yes,yes,Negative,'Type two',?
+
+Dhaka,Male,87,104,yes,yes,no,no,yes,no,no,no,yes,yes,yes,yes,Negative,'Type two',?
+
+Dhaka,Female,77,105,yes,yes,no,no,yes,no,yes,yes,yes,yes,yes,yes,Positive,Dengue,?
+
+Dhaka,Male,91,103,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes,Negative,'Type two',?

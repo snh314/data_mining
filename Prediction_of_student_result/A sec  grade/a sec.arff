@@ -1,0 +1,21 @@
+@relation 'Book1 grade_predicted'
+
+@attribute '   ID' numeric
+@attribute ' Gender' {'     F'}
+@attribute '  Section' {'       A'}
+@attribute ' Class test(15)' numeric
+@attribute ' Assignment(5)' numeric
+@attribute Presentation(5) numeric
+@attribute '  Mid(25)' numeric
+@attribute 'Lab work(10)' numeric
+@attribute ' Final(40)' numeric
+@attribute predictedGrade {A+,A,A-,F}
+@attribute Grade {A+,A,A-,F}
+
+@data
+1011,'     F','       A',14,5,3,25,6,36,A+,?
+1012,'     F','       A',9,5,4,17,5,27,F,?
+1013,'     F','       A',7,4,4,12,5,23,F,?
+1024,'     F','       A',14,4,5,22,7,39,A+,?
+1026,'     F','       A',12,5,4,19,6,32,A-,?
+1033,'     F','       A',13,5,5,18,7,30,A-,?
