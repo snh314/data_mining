@@ -1,0 +1,110 @@
+@relation c-shy-training
+
+
+@attribute ' Location' {Sylhet}
+
+@attribute Gender {Male,Female}
+
+@attribute Age numeric
+
+@attribute Temperature numeric
+
+@attribute Fever {no,yes}
+
+@attribute Arthralgia {no,yes}
+
+@attribute Backache {no,yes}
+
+@attribute Headache {no,yes}
+
+@attribute Rash {yes,no}
+
+@attribute Stomatitis {no,yes}
+
+@attribute 'Oral ulcer' {no}
+
+@attribute Vomiting {no,yes}
+
+@attribute Diarrhoea {yes,no}
+
+@attribute 'Joint Swelling' {yes,no}
+
+@attribute '2nd visit?' {no,yes}
+
+@attribute 'Still JS' {null,yes}
+
+@attribute 'Dengue NS1' {Null,'Negative ',Negative,Positive}
+
+@attribute 'Chikongunya Type' {'Type one','Type two',Dengue}
+
+
+
+@data
+
+
+Sylhet,Male,7,98.6,no,no,no,no,yes,no,no,no,yes,yes,no,null,Null,'Type one'
+Sylhet,Male,8,102,yes,yes,no,no,yes,no,no,yes,yes,yes,no,null,Null,'Type one'
+Sylhet,Female,12,98.6,no,yes,no,yes,no,yes,no,yes,yes,no,no,null,Null,'Type one'
+Sylhet,Male,8,104,yes,yes,no,yes,yes,no,no,yes,yes,yes,no,null,Null,'Type one'
+Sylhet,Female,7,101,yes,no,yes,no,yes,yes,no,no,no,yes,no,null,Null,'Type one'
+Sylhet,Female,6,103,yes,yes,no,no,no,yes,no,yes,yes,yes,no,null,Null,'Type one'
+Sylhet,Male,9,98.6,no,yes,no,no,yes,no,no,yes,no,no,no,null,Null,'Type one'
+Sylhet,Female,10,104,yes,yes,yes,yes,yes,yes,no,yes,no,yes,no,null,Null,'Type one'
+Sylhet,Male,11,101,yes,no,no,yes,no,yes,no,yes,no,yes,no,null,Null,'Type one'
+Sylhet,Male,12,103,yes,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Male,9,104,yes,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Female,10,102,yes,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Female,7,103,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Male,8,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Male,6,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Female,10,102,yes,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,Positive,Dengue
+Sylhet,Female,7,103,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,Positive,Dengue
+Sylhet,Male,8,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Positive,Dengue
+Sylhet,Male,6,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Positive,Dengue
+Sylhet,Male,18,98.6,no,yes,no,yes,no,yes,no,yes,yes,no,no,null,Null,'Type one'
+Sylhet,Female,17,101,yes,no,no,yes,yes,no,no,yes,yes,no,no,null,Null,'Type one'
+Sylhet,Female,14,102,yes,yes,no,yes,yes,no,no,yes,no,no,no,null,Null,'Type one'
+Sylhet,Male,19,98.6,no,no,no,yes,yes,no,no,yes,yes,no,no,null,Null,'Type one'
+Sylhet,Male,13,104,yes,yes,no,yes,yes,yes,no,yes,no,yes,no,null,Null,'Type one'
+Sylhet,Male,17,103,yes,no,no,yes,yes,yes,no,no,yes,yes,no,null,Null,'Type one'
+Sylhet,Female,18,102,yes,no,no,yes,yes,yes,no,yes,yes,yes,no,null,Null,'Type one'
+Sylhet,Female,19,98.6,no,no,no,yes,yes,yes,no,yes,no,yes,no,null,Null,'Type one'
+Sylhet,Female,13,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,no,null,Null,'Type one'
+Sylhet,Male,15,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,no,null,Null,'Type one'
+Sylhet,Male,17,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,no,null,Null,'Type one'
+Sylhet,Female,13,98.6,no,no,no,yes,yes,yes,no,yes,no,yes,yes,yes,Negative,'Type two'
+Sylhet,Female,14,104,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Female,17,102,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Female,19,105,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Male,15,98.6,no,no,no,yes,yes,yes,no,yes,no,yes,yes,yes,Negative,'Type two'
+Sylhet,Male,16,100,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Male,17,102,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Male,19,103,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Female,19,98.6,no,no,no,yes,yes,yes,no,yes,yes,no,yes,yes,Positive,Dengue
+Sylhet,Female,15,98.6,no,no,no,yes,yes,yes,no,yes,no,yes,yes,yes,Positive,Dengue
+Sylhet,Female,16,100,yes,no,no,yes,yes,yes,no,yes,yes,no,yes,yes,Positive,Dengue
+Sylhet,Female,17,102,yes,no,no,yes,yes,yes,no,yes,yes,no,yes,yes,Positive,Dengue
+Sylhet,Male,19,98.6,no,no,no,yes,yes,yes,no,yes,yes,no,yes,yes,Positive,Dengue
+Sylhet,Male,16,101,yes,no,no,yes,yes,yes,no,yes,yes,no,yes,yes,Positive,Dengue
+Sylhet,Male,17,104,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Positive,Dengue
+Sylhet,Male,19,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Positive,Dengue
+Sylhet,Male,20,104,yes,yes,no,no,yes,no,no,yes,yes,yes,no,null,Null,'Type one'
+Sylhet,Male,27,102,yes,no,no,yes,yes,no,no,no,yes,no,no,null,Null,'Type one'
+Sylhet,Male,29,103,yes,yes,no,yes,yes,yes,no,yes,yes,yes,no,null,Null,'Type one'
+Sylhet,Female,22,101,yes,no,yes,yes,yes,no,no,yes,no,yes,no,null,Null,'Type one'
+Sylhet,Female,25,105,yes,yes,no,yes,yes,yes,no,yes,no,yes,no,null,Null,'Type one'
+Sylhet,Female,26,98.6,no,no,no,no,yes,yes,no,yes,yes,no,no,null,Null,'Type one'
+Sylhet,Female,30,103,yes,no,yes,yes,no,yes,no,yes,yes,yes,yes,yes,Negative,'Type two'
+Sylhet,Male,21,98.6,no,yes,no,no,yes,yes,no,yes,yes,no,no,null,Null,'Type one'
+Sylhet,Male,25,98.6,no,yes,no,yes,yes,yes,no,yes,no,no,yes,yes,Negative,'Type two'
+Sylhet,Male,26,102,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,Negative,'Type two'
+Sylhet,Male,22,98.6,no,yes,no,yes,yes,yes,no,yes,no,no,yes,yes,Positive,Dengue
+Sylhet,Male,27,98.6,no,yes,no,yes,yes,yes,no,no,yes,yes,yes,yes,Positive,Dengue
+Sylhet,Male,26,102,yes,no,no,no,yes,yes,no,yes,no,no,yes,yes,Positive,Dengue
+Sylhet,Male,29,104,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Positive,Dengue
+Sylhet,Female,21,98.6,no,yes,no,yes,yes,yes,no,yes,no,no,yes,yes,Negative,'Type two'
+Sylhet,Female,29,103,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,Negative,'Type two'
+Sylhet,Female,25,98.6,no,yes,no,yes,yes,yes,no,yes,no,no,yes,yes,Positive,Dengue
+Sylhet,Female,28,98.6,no,yes,no,yes,yes,yes,no,no,yes,yes,yes,yes,Positive,Dengue
+Sylhet,Female,22,102,yes,no,no,no,yes,yes,no,yes,no,no,yes,yes,Positive,Dengue
+Sylhet,Female,29,104,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Positive,Dengue

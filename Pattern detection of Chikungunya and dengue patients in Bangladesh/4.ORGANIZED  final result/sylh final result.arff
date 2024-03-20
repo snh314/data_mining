@@ -1,0 +1,71 @@
+@relation c-shy-training_predicted
+
+
+@attribute ' Location' {Sylhet}
+
+@attribute Gender {Male,Female}
+
+@attribute Age numeric
+
+@attribute Temperature numeric
+
+@attribute Fever {no,yes}
+
+@attribute Arthralgia {no,yes}
+
+@attribute Backache {no,yes}
+
+@attribute Headache {no,yes}
+
+@attribute Rash {yes,no}
+
+@attribute Stomatitis {no,yes}
+
+@attribute 'Oral ulcer' {no}
+
+@attribute Vomiting {no,yes}
+
+@attribute Diarrhoea {yes,no}
+
+@attribute 'Joint Swelling' {yes,no}
+
+@attribute '2nd visit?' {no,yes}
+
+@attribute 'Still JS' {null,yes}
+
+@attribute 'Dengue NS1' {Null,'Negative ',Negative,Positive}
+
+@attribute 'predictedChikongunya Type' {'Type one','Type two',Dengue}
+
+@attribute 'Chikongunya Type' {'Type one','Type two',Dengue}
+
+
+
+@data
+
+
+Sylhet,Male,12,98.6,no,yes,no,yes,no,yes,no,yes,yes,no,no,null,Null,'Type one',?
+
+Sylhet,Female,8,104,yes,yes,no,yes,yes,no,no,yes,yes,yes,no,null,Null,'Type one',?
+
+Sylhet,Male,7,103,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,Negative,'Type two',?
+
+Sylhet,Female,11,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,'Type two',?
+
+Sylhet,Female,5,98.6,no,yes,no,no,yes,no,no,yes,no,no,no,null,Null,'Type one',?
+
+Sylhet,Female,6,98.6,no,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Positive,Dengue,?
+
+Sylhet,Male,14,103,yes,no,no,yes,yes,yes,no,yes,yes,no,yes,yes,Positive,Dengue,?
+
+Sylhet,Female,20,98.6,no,no,no,yes,yes,yes,no,yes,yes,no,yes,yes,Positive,Dengue,?
+
+Sylhet,Male,33,103,yes,no,yes,yes,no,yes,no,yes,yes,yes,yes,yes,Negative,'Type two',?
+
+Sylhet,Female,20,98.6,no,yes,no,no,yes,yes,no,yes,yes,no,no,null,Null,'Type one',?
+
+Sylhet,Male,21,98.6,no,yes,no,yes,yes,yes,no,yes,no,no,yes,yes,Negative,'Type two',?
+
+Sylhet,Male,28,103,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,Negative,'Type two',?
+
+Sylhet,Male,26,98.6,no,yes,no,yes,yes,yes,no,yes,no,no,yes,yes,Positive,Dengue,?

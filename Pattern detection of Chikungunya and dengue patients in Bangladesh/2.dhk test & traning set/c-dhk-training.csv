@@ -1,0 +1,136 @@
+Location,Gender,Age,Temperature,Fever,Arthralgia,Backache,Headache,Rash,Stomatitis,Oral ulcer,Vomiting,Diarrhoea,Joint Swelling,2nd visit?,Still JS,Dengue NS1,Chikongunya Type
+Dhaka,Male,7,98.6,no,no,no,yes,yes,no,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Female,11,98.6,no,yes,no,yes,yes,yes,no,yes,no,no,no,null,Null,Type one
+Dhaka,Female,8,98.6,no,no,no,no,yes,yes,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Female,10,98.6,no,yes,no,yes,yes,no,no,yes,no,no,no,null,Null,Type one
+Dhaka,Male,7,98.6,no,no,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Female,8,101,yes,yes,no,yes,yes,yes,no,yes,no,no,no,null,Null,Type one
+Dhaka,Female,10,103,yes,yes,no,no,no,yes,no,yes,no,no,no,null,Null,Type one
+Dhaka,Male,12,101,yes,no,no,yes,yes,yes,no,yes,no,no,no,null,Null,Type one
+Dhaka,Male,12,102,yes,yes,no,no,no,yes,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Female,9,103,yes,yes,no,yes,yes,no,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Female,7,101,yes,yes,no,no,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Male,10,102,yes,no,no,no,yes,yes,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Female,8,101,yes,yes,no,yes,yes,no,no,yes,no,no,no,null,Null,Type one
+Dhaka,Male,6,103,yes,no,no,yes,yes,no,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Female,11,104,yes,yes,no,yes,yes,no,no,no,yes,yes,no,yes,Null,Type two
+Dhaka,Male,11,105,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,Null,Type two
+Dhaka,Female,8,104,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,Positive,Dengue
+Dhaka,Female,6,104,yes,yes,no,yes,yes,yes,no,no,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Male,10,105,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,Type two
+Dhaka,Male,13,98.6,no,yes,no,no,yes,no,yes,no,no,no,no,null,Null,Type one
+Dhaka,Male,19,98.6,no,yes,no,no,yes,no,yes,no,yes,no,no,null,Null,Type one
+Dhaka,Male,15,98.6,no,yes,no,no,yes,no,yes,no,no,no,no,null,Null,Type one
+Dhaka,Male,13,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Male,19,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Female,18,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Female,17,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Male,18,98.6,no,yes,no,no,yes,no,yes,no,yes,no,no,null,Null,Type one
+Dhaka,Female,13,98.6,no,yes,no,yes,yes,no,yes,no,no,no,no,null,Null,Type one
+Dhaka,Female,16,98.6,no,yes,no,no,yes,yes,yes,no,no,no,no,null,Null,Type one
+Dhaka,Male,13,101,yes,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Male,14,102,yes,yes,no,no,yes,yes,yes,no,yes,no,no,null,Null,Type one
+Dhaka,Female,19,103,yes,yes,no,yes,yes,no,yes,no,yes,no,no,null,Null,Type one
+Dhaka,Female,17,102,yes,yes,no,no,yes,no,yes,no,yes,no,no,null,Null,Type one
+Dhaka,Female,16,100,yes,yes,no,no,yes,no,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Female,19,105,yes,yes,no,no,yes,no,no,no,yes,no,yes,yes,Negative,Type two
+Dhaka,Female,19,104,yes,yes,no,yes,yes,no,yes,no,yes,yes,yes,yes,Negative,Type two
+Dhaka,Female,18,104,yes,yes,no,no,yes,no,no,yes,no,yes,yes,yes,Negative,Type two
+Dhaka,Female,15,104,yes,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Male,16,105,yes,yes,no,yes,no,no,no,yes,yes,yes,no,null,Null,Type two
+Dhaka,Male,19,104,yes,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Male,18,98.6,yes,yes,no,no,yes,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Male,14,104,yes,yes,no,no,yes,no,yes,yes,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Male,13,104,yes,yes,no,yes,yes,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Female,13,104,yes,yes,no,no,yes,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Female,14,105,yes,yes,no,no,yes,no,no,yes,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Female,15,105,yes,no,no,no,yes,no,yes,no,yes,yes,no,null,Null,Type one
+Dhaka,Female,16,105,yes,yes,no,no,yes,no,yes,no,yes,yes,no,null,Null,Type one
+Dhaka,Female,18,104,yes,yes,no,yes,yes,no,yes,yes,yes,yes,no,null,Null,Type one
+Dhaka,Male,18,105,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,Negative,Type two
+Dhaka,Female,22,98.6,no,yes,no,no,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Female,27,98.6,no,no,no,yes,no,yes,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Male,21,98.6,no,yes,no,yes,yes,no,no,yes,no,no,no,null,Null,Type one
+Dhaka,Female,27,98.6,no,yes,yes,no,no,yes,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Male,25,98.6,no,yes,no,yes,yes,yes,no,no,no,no,no,null,Null,Type one
+Dhaka,Female,21,98.6,no,no,no,yes,yes,yes,no,yes,no,no,no,null,Null,Type one
+Dhaka,Male,28,98.6,no,no,yes,yes,yes,no,no,no,no,no,no,null,Null,Type one
+Dhaka,Male,22,98.6,no,no,yes,yes,yes,no,no,yes,no,no,no,null,Null,Type one
+Dhaka,Female,25,101,yes,no,yes,yes,yes,yes,no,yes,no,no,no,null,Null,Type one
+Dhaka,Male,29,105,yes,no,no,yes,yes,yes,no,yes,yes,no,yes,yes,Negative,Type two
+Dhaka,Female,23,104,yes,yes,no,no,yes,yes,no,no,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Male,21,102,yes,no,no,yes,yes,yes,no,no,no,no,no,null,null,Type one
+Dhaka,Male,24,103,yes,yes,no,no,yes,yes,no,no,yes,no,yes,yes,Negative,Type two
+Dhaka,Male,26,103,yes,yes,no,no,yes,no,no,yes,no,no,yes,yes,Negative,Type two
+Dhaka,Male,24,104,yes,yes,yes,no,no,yes,no,yes,no,no,yes,yes,Negative,Type two
+Dhaka,Male,29,105,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,Negative,Type two
+Dhaka,Female,21,104,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes,yes,Positive,Dengue
+Dhaka,Female,26,101,yes,yes,no,yes,no,yes,no,yes,no,no,no,null,Null,Type one
+Dhaka,Female,27,103,yes,no,no,yes,yes,no,no,yes,yes,no,yes,yes,Positive,Dengue
+Dhaka,Male,29,101,yes,no,no,yes,no,yes,no,yes,yes,no,yes,yes,Negative,Type two
+Dhaka,Female,23,102,yes,no,no,yes,yes,no,no,yes,yes,no,no,null,Null,Type one
+Dhaka,Male,25,103,yes,yes,no,no,no,yes,no,yes,no,yes,no,null,Null,Type one
+Dhaka,Female,25,104,yes,yes,no,yes,yes,yes,no,yes,no,yes,yes,yes,Positive,Dengue
+Dhaka,Male,22,103,yes,no,no,yes,no,yes,no,yes,no,no,yes,yes,Positive,Dengue
+Dhaka,Male,28,105,yes,yes,no,no,yes,yes,no,yes,no,yes,no,null,Null,Type one
+Dhaka,Female,25,104,yes,no,no,yes,yes,yes,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Male,29,105,yes,yes,no,yes,yes,yes,no,yes,no,yes,no,null,Null,Type one
+Dhaka,Female,24,103,yes,yes,no,yes,yes,yes,no,yes,no,yes,no,null,Null,Type one
+Dhaka,Female,27,104,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,null,Null,Type one
+Dhaka,Male,30,102,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Male,23,105,yes,yes,no,yes,no,yes,no,yes,no,yes,yes,yes,Positive,Dengue
+Dhaka,Female,24,101,yes,yes,no,yes,yes,no,no,yes,no,no,yes,yes,Negative,Type two
+Dhaka,Male,28,101,yes,no,no,yes,yes,no,no,no,no,no,yes,yes,Negative,Type two
+Dhaka,Female,26,102,yes,no,no,yes,yes,no,no,yes,no,no,yes,yes,Negative,Type two
+Dhaka,Female,21,104,yes,yes,no,no,yes,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Female,27,105,yes,yes,no,yes,yes,no,no,yes,no,yes,no,null,Null,Type one
+Dhaka,Male,28,103,yes,yes,no,no,yes,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Female,23,104,yes,yes,no,yes,yes,no,no,yes,yes,yes,no,null,Null,Type one
+Dhaka,Female,25,105,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,Negative,Type two
+Dhaka,Male,27,102,yes,no,no,yes,yes,no,no,yes,no,no,yes,yes,Negative,Type two
+Dhaka,Male,21,105,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Negative,Type two
+Dhaka,Male,22,102,yes,no,no,yes,yes,no,no,yes,no,yes,yes,yes,Negative,Type two
+Dhaka,Male,35,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,male,33,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Female,37,98.6,no,yes,no,yes,yes,no,no,no,no,no,no,null,Null,Type one
+Dhaka,Female,36,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Male,42,98.6,no,yes,no,yes,yes,no,no,no,yes,no,no,null,Null,Type one
+Dhaka,Male,44,101,yes,yes,no,yes,yes,no,yes,no,yes,no,no,null,Null,Type one
+Dhaka,Male,46,102,yes,yes,no,yes,yes,no,yes,no,yes,no,yes,yes,Positive,Dengue
+Dhaka,Female,72,103,yes,yes,no,yes,yes,no,yes,no,yes,no,yes,yes,Positive,Dengue
+Dhaka,Male,62,102,yes,yes,no,yes,yes,no,no,no,no,no,yes,yes,Positive,Dengue
+Dhaka,Female,62,103,yes,yes,no,yes,yes,no,yes,no,no,no,no,null,Null,Type one
+Dhaka,Male,86,102,yes,yes,no,yes,yes,no,yes,yes,yes,no,no,null,Null,Type one
+Dhaka,Female,56,102,yes,yes,no,yes,yes,no,yes,no,no,no,no,null,Null,Type one
+Dhaka,Female,51,102,yes,yes,no,yes,yes,no,yes,no,no,no,no,null,Null,Type one
+Dhaka,Female,49,100,yes,yes,no,no,yes,no,yes,no,no,no,yes,yes,Negative,Type two
+Dhaka,Female,41,102,yes,yes,no,yes,yes,no,no,no,no,no,no,null,Null,Type one
+Dhaka,Female,33,103,yes,yes,no,no,yes,no,no,no,no,no,yes,yes,Negative,Type two
+Dhaka,Female,37,104,yes,yes,no,no,yes,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Male,55,105,yes,yes,no,no,yes,no,no,yes,yes,yes,yes,yes,Negative,Type two
+Dhaka,Female,40,102,yes,yes,no,yes,yes,no,yes,no,no,yes,no,null,Null,Type one
+Dhaka,Male,44,105,yes,yes,no,no,yes,yes,no,no,yes,yes,yes,yes,Negative,Type two
+Dhaka,Male,45,104,yes,no,no,no,yes,yes,yes,no,no,yes,no,null,Null,Type one
+Dhaka,Male,70,102,yes,yes,no,no,yes,no,yes,no,no,yes,yes,yes,Negative,Type two
+Dhaka,Female,86,104,yes,yes,no,no,yes,no,no,no,yes,yes,yes,yes,Negative,Type two
+Dhaka,Female,44,104,yes,no,no,yes,yes,no,no,no,no,yes,no,null,Null,Type one
+Dhaka,Female,72,104,yes,yes,no,no,yes,no,no,no,yes,yes,yes,yes,Negative,Type two
+Dhaka,Female,33,104,yes,yes,no,no,yes,no,yes,no,yes,yes,no,null,Null,Type one
+Dhaka,Female,66,104,yes,yes,no,no,yes,no,yes,no,yes,yes,no,null,Null,Type one
+Dhaka,Male,50,103,yes,yes,no,no,yes,no,no,no,no,yes,no,null,Null,Type one
+Dhaka,Male,40,98.6,no,yes,no,no,yes,no,no,no,no,yes,no,null,Null,Type one
+Dhaka,Female,46,102,yes,yes,no,no,yes,no,no,no,no,yes,no,null,Null,Type one
+Dhaka,Male,66,104,yes,yes,no,no,yes,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Female,37,103,yes,yes,no,no,no,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Male,36,104,yes,no,no,no,yes,no,no,no,no,yes,no,null,Null,Type one
+Dhaka,Male,47,98.6,no,yes,no,no,yes,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Male,48,105,yes,yes,no,no,yes,no,yes,no,no,yes,no,null,Null,Type one
+Dhaka,Female,97,104,yes,yes,no,no,yes,no,no,yes,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Male,87,102,yes,yes,no,no,yes,no,yes,no,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Female,89,103,yes,yes,no,no,yes,no,no,no,yes,yes,yes,yes,Negative,Type two
+Dhaka,Male,76,104,yes,yes,no,no,yes,no,yes,no,yes,yes,yes,yes,Negative,Type two
+Dhaka,Male,42,105,yes,yes,no,yes,yes,no,no,no,no,yes,no,null,Null,Type one
+Dhaka,Male,40,103,yes,yes,no,,yes,no,no,no,yes,yes,no,null,Null,Type one
+Dhaka,Female,66,105,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Male,72,105,yes,yes,no,no,yes,no,yes,yes,yes,yes,yes,yes,Positive,Dengue
+Dhaka,Female,92,103,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes,Positive,Type two
