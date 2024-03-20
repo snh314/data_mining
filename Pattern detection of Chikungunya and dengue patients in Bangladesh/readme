@@ -1,0 +1,3 @@
+The objective of the system will be, to categorize whether the illness is Dengue or Chikungunya, as the initial symptoms are similar in both the disease. 
+The system will analyze the datasets and will give information about the disease. The technique of the system is that it will analyze all the medical data and will use machine learning technique to indentify the patterns and relationships among large data ,
+so that it can predict the outcome of the diseases.
